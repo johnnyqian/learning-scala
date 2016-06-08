@@ -1,2 +1,2 @@
 # learning-scala
-Learning scala in a practical way. http://www.scala-lang.org/
+Pratice for book 'Scala for the Impatient'. http://horstmann.com/scala/
