@@ -1,0 +1,1 @@
+com.horstmann.impatient.Foo.bar // Foo is in com.horstmann.impatient

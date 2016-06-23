@@ -1,0 +1,1 @@
+// 同名的基本数据类型,如Boolean, Byte, Short, Long, Float, Double等都被scala包覆盖了。
