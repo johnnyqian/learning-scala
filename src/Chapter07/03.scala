@@ -17,3 +17,13 @@ package object random {
     nextInt.toDouble / Int.MaxValue.toDouble
   }
 }
+
+package chapter07 {
+
+  object Test03 extends App {
+    random.setSeed((System.currentTimeMillis() / 1000).toInt)
+    println(random.nextInt)
+    println(random.nextDouble)
+  }
+
+}
