@@ -1,0 +1,1 @@
+The idea behind the technical debt metaphor is that there is a cost to taking short cuts (intentional technical debt) or making mistakes (unintentional technical debt) and that the cost of not dealing with these short cuts and mistakes will increase over time. 
