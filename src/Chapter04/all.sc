@@ -3,7 +3,7 @@ val products = Map("A" -> 10, "B" -> 20, "C" -> 30)
 val productsWithDiscount = for((k,v) <- products) yield (k, v * 0.9)
 
 // 2 please check the 'Make project' in the Worksheet in order to read the txt file from resource
-val txtFile = getClass.getResource("/chapter04.txt")
+val txtFile = getClass.getResource("/sample.txt")
 val in = new java.util.Scanner(new java.io.File(txtFile.getPath))
 val wordCount = new collection.mutable.HashMap[String, Int]
 while(in.hasNext()) {
